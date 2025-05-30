@@ -1,1 +1,3 @@
-const {Telegraf} = require("telegraf");
+const { Telegraf } = require("telegraf");
+
+const bot = new Telegraf()
